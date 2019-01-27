@@ -1,7 +1,9 @@
 # WTCRC车机DSP收音IC控制板
-[![Build Status](https://travis-ci.org/sikaozhe1997/Xin-Yue.svg?branch=master)](https://travis-ci.org/sikaozhe1997/Xin-Yue)
 
-## **[帖子地址]()**
+## **[帖子地址](新DSP收音芯片控制板
+http://www.crystalradio.cn/forum.php?mod=viewthread&tid=1672438&fromuid=71473
+(出处: 矿石收音机论坛)
+)**
 
 ## 支持的IC系列
 
